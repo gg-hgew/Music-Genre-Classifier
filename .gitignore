@@ -1,0 +1,8 @@
+# Ignore dataset & large files
+gtzan-dataset-music-genre-classification.zip
+gtzan_dataset/
+models/
+spectrogram_dataset/
+__pycache__/
+kaggle.json
+kaggle (1).json
