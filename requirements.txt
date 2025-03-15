@@ -1,0 +1,6 @@
+librosa
+numpy
+tensorflow
+scikit-learn
+streamlit
+pickle-mixin
