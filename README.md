@@ -8,7 +8,7 @@
 
 ## 📌 Overview  
 This project classifies music genres using **Machine Learning (Random Forest)** and **Deep Learning (VGG16 CNN)**.  
-It processes audio files, extracts features, and predicts the genre based on trained models.  
+It processes audio files, extracts features, and predicts the genre based on trained models.
 
 **Key Features:**  
 ✅ Upload an audio file and get its predicted genre.  
